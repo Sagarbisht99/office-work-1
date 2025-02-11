@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="red" />
+  
+  <!-- Lightning Bolt -->
+  <polygon points="85,30 115,30 95,70 125,70 95,120 115,120 85,160" fill="yellow" />
+  
+  <!-- Text "ENERGY" -->
+  <text x="50" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">ENERGY</text>
+</svg>
